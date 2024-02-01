@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    display: flex-block;
+    
+}
+#search{
+    height: 30px;
+    border-radius: 5%;
+    box-shadow: 10%;
+}
+.btn-input{
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+    height: 35px;
+    font-weight: 400;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-weight: 600;
+    box-shadow: 10%;
+}
+
+.btn-remove{
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    border-radius: 10%;
+    height: 35px;
+    font-weight: 400;
+    box-sizing: border-box;
+    border-style: outset;
+    font-family: inherit;
+    font-weight: 600;
+    box-shadow: 10%;
+
+}
+
+
+
+
+
